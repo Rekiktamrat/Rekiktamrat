@@ -14,7 +14,7 @@
 
 ## 🎓 Education
 **Software Engineer**  
-Addis Ababa Institute of Technology  
+St Mary's University  
 📅 12/2019 – 06/2024 | 📍 Addis Ababa, Ethiopia  
 
 ## 💼 Professional Experience
