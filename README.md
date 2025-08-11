@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Rekik Tamrat
-**Software Engineer / Full Stack Developer**  
+**Software Engineer / Full Stack Developer**    
 
 📧 rekiktamrat72@gmail.com | 📞 +251976609283
 🌍 Addis Ababa, Ethiopia  
