@@ -41,4 +41,5 @@ Web Developer | 📅 03/2023 – 02/2024
 ## ✨ Fun Fact
 I once coded for 36 hours straight during a hackathon!
 
-[![Resume](https://img.shields.io/badge/-Download_Resume-blue?style=flat-square)](https://drive.google.com/file/d/1KjSwkb2M5OK4Mp_ZLadOlCr_FnNn4brr/view)
+[![Resume](https://img.shields.io/badge/-Download_Resume-blue?style=flat-square)](https://docs.google.com/document/d/1uyXdNQGl-FuHK_-ImbLMzNuIjDwPAVe88XaloyJNkdg/edit)
+
